@@ -10,6 +10,10 @@
 
 - [Github repo:](https://github.com/Keelen-Fisher/basic-express-server)
 
+- [Deployed Site:](https://dashboard.heroku.com/apps/keelen-basic-expr-server-prod/deploy/github)
+
+- [PR From Github:](https://github.com/Keelen-Fisher/basic-express-server/pull/1)
+
 ### Running the app
 
 - `npm start`
