@@ -12,7 +12,7 @@
 
 - [Deployed Site:](https://dashboard.heroku.com/apps/keelen-basic-expr-server-prod/deploy/github)
 
-- [PR From Github:](https://github.com/Keelen-Fisher/basic-express-server/pull/1)
+- [PR From Github:](https://github.com/Keelen-Fisher/basic-express-server/pull/2)
 
 ### Running the app
 
