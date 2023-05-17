@@ -19,7 +19,6 @@
 - `npm start`
 - Endpoint:
       - `/bad`
-      - `/person`
 
 #### Tests
 
